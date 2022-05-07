@@ -7473,7 +7473,7 @@ body .fs-sticky-footer {
 
 .header.large {
   height: 450px;
-  background-image: url();
+  background-image: url("./header-bg-small-newsletters.png");
   border-bottom-width: 15px
 }
 
