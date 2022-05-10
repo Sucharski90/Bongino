@@ -16,8 +16,9 @@ function App() {
   return (
     <Router>
     <div className="App">
-    <AudioPlayer />
+    
       <Navbar />
+      <AudioPlayer />
         <Routes>
           <Route path='/' exact element={<Home />} />
           <Route path='/newsletters' element={<NewsletterLayout />} />
